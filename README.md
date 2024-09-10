@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Jeesun</h1>
-<h3 align="center">Software Developer | Enthusiast in Data Science</h3>
+<h3 align="center">Software Developer | Enthusiast in Generative AI</h3>
 <img align='center' src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamxmOGc4MXZkY2JtdjUxM2pvY3F3aDN2czE1YWdzc3BmNms3bDQ5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE1YN7aBOFPRw8E/giphy.gif' alt="Coding" width="400px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeesun09&label=Profile%20views&color=0e75b6&style=flat" alt="jeesun09" /> </p>
