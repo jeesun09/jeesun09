@@ -7,8 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/jeesunsk" target="blank"><img src="https://img.shields.io/twitter/follow/jeesunsk?logo=twitter&style=for-the-badge" alt="jeesunsk" /></a> </p>
 
-- 🌱 I’m currently learning **Next JS & Android**
-
+- 🔭 I'm currently working on my **Problem Solving Skills**
+- 🌱 I’m currently learning **TypeScript & Redis**
+- 💬 Ask me about **Full Stack Web Development** 
 - 📫 How to reach me **jeesunbari2002@gmail.com**
 
 - ⚡ Fun fact **I'm a cinephile**
